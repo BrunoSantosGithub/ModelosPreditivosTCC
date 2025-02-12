@@ -1,6 +1,7 @@
 # Análise Preditiva na UTI
 
 🔍 **Descrição do Projeto<br/>**
+<br/>
 Este projeto tem como objetivo desenvolver modelos preditivos para prever desfechos clínicos de pacientes internados na UTI, utilizando técnicas de Machine Learning. A pesquisa é baseada em dados do Instituto Nacional de Infectologia Evandro Chagas (Fiocruz), com foco na melhoria da tomada de decisões médicas.<br/>
 <br/>
 Os modelos serão construídos para responder a duas questões principais:<br/>
