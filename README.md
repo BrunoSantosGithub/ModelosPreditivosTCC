@@ -22,7 +22,7 @@ Os modelos serão construídos para responder a duas questões principais:<br/>
 <br/>
 
 📂 Estrutura do Repositório
-* data/                # Bases de dados utilizadas
-* notebooks/           # Código de Análise Exploratória e Modelos preditivos
-* reports/             # Relatórios
+* data/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Bases de dados utilizadas
+* notebooks/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Código de Análise Exploratória e Modelos preditivos
+* reports/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Relatórios
 * README.md 
